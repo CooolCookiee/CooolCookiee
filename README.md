@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [CooolCookiee Web Page](https://github.com/CooolCookiee/cooolcookieeWeb)
 
-- 🌱 I’m currently learning **Prolog**
-
 - 👨‍💻 All of my projects are available at [https://github.com/CooolCookiee](https://github.com/CooolCookiee)
 
 - 📝 I regularly write articles on [https://github.com/CooolCookiee](https://github.com/CooolCookiee)
