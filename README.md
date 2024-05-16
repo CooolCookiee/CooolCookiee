@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend development**
 
-- 📫 How to reach me **cooolcookiee.contact@gmail.com**
+- 📫 How to reach me **renejrcanales@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/rené-guillermo-canales-clímaco-6230b81a2](www.linkedin.com/in/rené-guillermo-canales-clímaco-6230b81a2)
 
